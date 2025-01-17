@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/triveon/duplicate-widget/compare/v1.0.0...v1.0.1) (2025-01-17)
+
+
+### Bug Fixes
+
+* Updated README.md ([6225afd](https://github.com/triveon/duplicate-widget/commit/6225afd56aa35dfa733b7ff3f25cc7fc376248fc))
+
 # 1.0.0 (2025-01-17)
 
 
