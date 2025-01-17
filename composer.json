@@ -1,0 +1,20 @@
+{
+    "name": "triveon/duplicate-widget",
+    "description": "Module to enable duplication of widgets",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+        "OSL-3.0"
+    ],
+    "require": {
+        "php": ">=8.2"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Triveon\\DuplicateWidget\\": ""
+        }
+    }
+}
