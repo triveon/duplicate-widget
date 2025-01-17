@@ -70,4 +70,4 @@ To update the Duplicate Widget Extension run the following commands:
 ~~~~shell
 composer update triveon/duplicate-widget
 php bin/magento setup:upgrade
-~~~~
+~~~~ 
